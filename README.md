@@ -26,6 +26,4 @@ OTHER NOTES:
 •	“Error: WebGL: drawElements: Drawing to a destination rect smaller than the viewport rect.”
 I wasn’t really sure how to fix this problem. But all of my features work when the browser window is smaller. Please let me know if you have any questions. 
 
-Thank you,
-Grace
 
